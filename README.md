@@ -20,7 +20,7 @@ Logging in using valid credincials
 ![Login](https://user-images.githubusercontent.com/79492620/113448607-e0b63f00-941b-11eb-900b-8c8fb13c9968.gif)
 
 # Home Page
-<img src="Home.png"width="200" height="400">
+<img src="Home.png" width="500" height="200">
 
 # Add Task
 After Login user can add task by using add button on the bottom right
